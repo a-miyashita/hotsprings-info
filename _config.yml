@@ -1,2 +1,4 @@
 title: 全国温泉情報
 theme: jekyll-theme-cayman
+plugins:
+  - jemoji
