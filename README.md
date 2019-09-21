@@ -8,7 +8,7 @@
 * 宮城県
 * 秋田県
 * 山形県
-* 福島県
+* [福島県](fukushima/index.md)
 * 茨城県
 * 栃木県
 * [群馬県](gunma/index.md)
